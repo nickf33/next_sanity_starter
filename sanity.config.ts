@@ -2,9 +2,9 @@ import { defineConfig } from "sanity";
 import { deskTool } from "sanity/desk";
 
 const config = defineConfig({
-  projectId: "oy7r1dvm",
+  projectId: "ADD PROJECT ID FROM SANITY",
   dataset: "production",
-  title: "Portfolio 2023",
+  title: "ADD NAME",
   apiVersion: "2023-11-18",
   basePath: "/admin",
   plugins: [deskTool()],
